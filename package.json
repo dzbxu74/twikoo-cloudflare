@@ -12,12 +12,15 @@
   },
   "homepage": "https://twikoo.js.org",
   "devDependencies": {
-    "wrangler": "^4.68.0"
+    "wrangler": "^4.120.0"
   },
   "dependencies": {
-    "twikoo-func": "^1.6.44",
-    "url": "^0.11.3",
-    "uuid": "^9.0.1",
+    "@valibot/to-json-schema": "^1.7.1",
+    "effect": "^3.22.1",
+    "sury": "^11.0.0-rc.0",
+    "twikoo-func": "^1.7.15",
+    "url": "^0.11.4",
+    "uuid": "^14.0.1",
     "xss": "^1.0.15"
   },
   "overrides": {
